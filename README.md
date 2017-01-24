@@ -16,11 +16,11 @@ You can find a Chinese character by the following ways:
 
 You can input a Chinese character by two ways: inputing a Chinese character directly in the `Hanzi Input` tab or querying a character by its radical in the `Dictionary` tab.
 
-The area on the left bottom will show the character selected, you can click this area to search a character directly.
+The area on the left bottom will show the character selected, you can click this area to search the character directly.
 
 ![pic1](img/pic1.PNG)
 
-In the `Dictionary` tab, you can find a radical by the number of its strokes, and then the `Characters` list will show all the characters of this redical.
+In the `Dictionary` tab, you can find a radical by the number of its strokes, and then the `Characters` list will show all the characters contain this redical.
 
 ![pic2](img/pic2.PNG)
 
@@ -48,7 +48,7 @@ This Database contains three tables:
 
 ![pic5](img/pic5.PNG)
 
-**Table radical**: radical and number of its stroke.
+**Table radical**: radical and number of its strokes.
 
 ![pic6](img/pic6.PNG)
 
